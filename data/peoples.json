@@ -1,0 +1,27 @@
+[
+  {
+    "name":"Звёздный Лорд",
+    "age": "37",
+    "photo": "https://upload.wikimedia.org/wikipedia/ru/7/77/Star-Lord.png"
+  },
+  {
+    "name": "Ракета",
+    "age": "35",
+    "photo": "'https://masterpiecer-images.s3.yandex.net/62b847f07daf11ee835dbaea8797b5f2:upscaled"
+  },
+  {
+    "name": "Гамора",
+    "age": "29",
+    "photo": "https://news.store.rambler.ru/img/1df47fc01a311582ef6dfeac1fa21700?img-1-resize=width%3A1280%2Cheight%3A720%2Cfit%3Acover&img-format=auto"
+  },
+  {
+    "name": "Дракс",
+    "age": "49",
+    "photo": "https://i.ytimg.com/vi/_kO9Gx3rGhs/maxresdefault.jpg"
+  },
+  {
+    "name": "Грут",
+    "age": "25",
+    "photo": "https://wikicomics.ru/uploads/posts/2020-08/1596968600_grutgroot.jpg"
+  }
+]
